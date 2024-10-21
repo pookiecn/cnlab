@@ -1,0 +1,20 @@
+NS2
+
+
+sudo apt update
+
+sudo apt install gcc-4.8 g++-4.8
+
+sudo apt install build-essential autoconf automake libxmu-dev
+
+sudo apt install ns2
+
+sudo apt install default-jre
+
+sudo apt install nam
+
+Download nsg2.1
+.Jar file
+ 
+ls
+Sudo java -jar nsg2.jar
